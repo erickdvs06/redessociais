@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 50px;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.image-container img {
+    margin: 0 10px;
+    max-width: 300px;
+}
+
+.bottom-text {
+    margin-top: 20px;
+}
+
+.bottom-images {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.bottom-images img {
+    margin: 0 10px;
+    max-width: 200px;
+}
+
+#Sociais {
+    width: 100px;
+    height: 100px;
+    margin: 0 50px;
+}
+
+.fa-brands {
+    font-size: 100px;
+}
+
+.fa-youtube {
+    color: red;
+}
+
+.fa-instagram {
+    color:blueviolet;
+}
+
+.fa-tiktok{
+    color: black;
+}
+
+.fa-youtube:hover {
+    color: rgb(0, 0, 0);
+}
+
+.fa-instagram:hover {
+    color:rgb(0, 0, 0);
+}
+
+.fa-tiktok:hover{
+    color: rgb(255, 0, 0);
+}
